@@ -1,0 +1,11 @@
+{
+  "name": "chartdata-convert",
+  "version": "0.0.1",
+  "description": "Libary to convert chartdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "Max Nowack",
+  "license": "GPLv2"
+}
