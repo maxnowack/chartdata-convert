@@ -7,12 +7,12 @@ Supported libraries:
 * chartist
 * chart.js
 
-Installation
+##Installation
 ```
 npm install chartdata-convert
 ```
 
-Usage
+##Usage
 ```javascript
 ChartDataConvert = require('chartdata-convert');
 
