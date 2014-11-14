@@ -9,7 +9,10 @@
   "author": "Max Nowack",
   "license": "GPLv2",
   "devDependencies": {
-    "mocha": "^2.0.1",
-    "should": "^4.3.0"
+    "chai": "^1.10.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-mocha-test": "^0.12.2",
+    "mocha": "^2.0.1"
   }
 }
