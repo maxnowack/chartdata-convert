@@ -2,7 +2,7 @@
   "name": "chartdata-convert",
   "version": "0.0.1",
   "description": "Libary to convert chartdata",
-  "main": "index.js",
+  "main": "lib/chartdata-convert.js",
   "scripts": {
     "test": "mocha -w"
   },
