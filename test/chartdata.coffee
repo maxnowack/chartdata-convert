@@ -25,7 +25,6 @@ describe 'chartdata convert', (done)->
       ]
     }
     output = chartdata.convert(testdata)
-    console.log output
     expect(output).to.eql expected
     done()
   it 'should covert to chartjs format', (done)->
