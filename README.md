@@ -12,6 +12,7 @@ Installation
 npm install chartdata-convert
 ```
 
+Usage
 ```javascript
 ChartDataConvert = require('chartdata-convert');
 
