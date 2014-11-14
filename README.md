@@ -29,8 +29,18 @@ data = [{
   },{
     label: 'March'
     data: [30,300,400]
-  }];
+  }
+];
 
 chartjsdata = chartdata.convert(data);
-
+/*
+{
+  labels: ['January', 'February', 'March']
+  datasets: [
+    { data: [10, 20, 30] },
+    { data: [100, 200, 300] },
+    { data: [200, 300, 400] }
+  ]
+}
+*/
 ```
